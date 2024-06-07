@@ -14,7 +14,7 @@ No additional libraries are required for these scripts.
 
 Installation
    
-   1)Clone the repository to your local machine
+   1)Clone the repository to your local machine - https://github.com/vishal1723/Cryptography.git
    
    2)Navigate to the repository directory
    
